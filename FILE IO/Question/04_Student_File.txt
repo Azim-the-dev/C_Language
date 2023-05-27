@@ -1,0 +1,18 @@
+
+ ----------------------------------------------- 
+|	The name of 1th student is: Azim			|
+|	The roll-number of 1th student is: 10		|
+|	The pertange of 1th student is: 96.56		|
+ ----------------------------------------------- 
+
+ ----------------------------------------------- 
+|	The name of 2th student is: Alam			|
+|	The roll-number of 2th student is: 8		|
+|	The pertange of 2th student is: 75.98		|
+ ----------------------------------------------- 
+
+ ----------------------------------------------- 
+|	The name of 3th student is: Aryan			|
+|	The roll-number of 3th student is: 12		|
+|	The pertange of 3th student is: 86.78		|
+ ----------------------------------------------- 
